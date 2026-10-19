@@ -35,4 +35,4 @@ License: `[e.g. CC BY 4.0, to be confirmed]`.
 
 ## Contact
 
-Opportunity Lab, Erasmus University Rotterdam — `[contact email]`
+Opportunity Lab, Erasmus University Rotterdam — `voorkamp@ese.eur.nl`
