@@ -18,7 +18,7 @@ Inside each folder, results are grouped by region (e.g. `Amsterdam_metropolitan_
 
 Each delivery of results is a **GitHub Release**. The release notes list what was added or changed, and the same information goes in `CHANGELOG.md`.
 
-- Tag format: `<analysis>-<stage>`, e.g. `intragenerational-S2.1`. Stage codes match the Opportunity Lab results tracker.
+- Tag format: `<analysis>-<stage>`, e.g. `intragenerational-S_2_1`. Stage codes use the `S_X_Y` notation from the naming conventions, as in the Opportunity Lab results tracker.
 - A dataset keeps the same file path across versions. Older versions are available through earlier releases.
 - Every release is archived on [Zenodo](https://zenodo.org) and gets a DOI.
 
